@@ -1,0 +1,2 @@
+# NotOrtalamasiHesaplama
+Patika Ödevlerimden Birisi
